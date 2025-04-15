@@ -36,7 +36,7 @@ A beginner-friendly Python script to calculate the final price of an apartment a
 python apartment_calculator.py
 
 
- Example output / Пример вывода
+Example output / Пример вывода
 Enter your name: Anna
 Enter city: Berlin
 Price per square meter: 120000
